@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(208,208,230);
+}
+
+h2 {
+    padding-left: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+iframe {
+    padding-right: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.App-logo {
+    height: 150px;
+    width: 300px;
+}
+
+.App-header {
+    margin-top: 0%;
+    padding: 7px;
+    padding-right: 5%;
+    background-color: rgb(130, 130, 200);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul, li {
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    text-align: center;
+    float: left;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 43px;
+    color: rgb(5, 5, 58);
+    text-align: center;
+    height: 75px;
+}
+
